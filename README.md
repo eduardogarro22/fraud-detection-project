@@ -1,4 +1,4 @@
-**# Fraud Detection Analytics Project | Python, SQL Server \& Power BI**
+**#Fraud Detection Analytics Project | Python, SQL Server \& Power BI**
 
 
 
