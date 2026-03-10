@@ -1,4 +1,22 @@
-**Fraud Detection System**
+**Fraud Detection Analytics Project | Python, SQL Server \& Power BI**
+
+
+
+**Descripción (Español)**
+
+
+
+Este proyecto desarrolla un sistema de análisis de fraude en transacciones bancarias utilizando Python, SQL Server y Power BI.
+
+
+
+El objetivo es identificar patrones de fraude, analizar el impacto financiero y visualizar los resultados mediante dashboards interactivos.
+
+
+
+El proyecto incluye procesamiento de datos, análisis de fraude y visualización de métricas clave para apoyar la detección de transacciones sospechosas.
+
+
 
 
 
@@ -19,6 +37,30 @@ Financial institutions process millions of transactions every day. Detecting fra
 
 
 This project applies **machine learning classification techniques** to automatically detect potentially fraudulent transactions.
+
+
+
+**Project Architecture**
+
+
+
+Kaggle Dataset
+
+&nbsp;     ↓
+
+Python Data Processing
+
+&nbsp;     ↓
+
+SQL Server Database
+
+&nbsp;     ↓
+
+Fraud Analysis
+
+&nbsp;     ↓
+
+Power BI Dashboard
 
 
 
@@ -206,13 +248,35 @@ Possible improvements include:
 
 
 
+**Key Insights**
+
+
+
+• Fraud transactions represent less than 0.2% of total operations.
+
+• Fraud detection patterns show higher probability in specific transaction behaviors.
+
+• Early detection systems can significantly reduce financial losses in banking operations.
+
+
+
 **Author**
 
 
 
 Eduardo Sebastian Garro
 
+**Data Analyst | SQL | Python | Power BI | Fraud Detection Analytics | Data Visualization**
 
 
-This project showcases my skills in SQL, Power BI, and Data Analytics, focusing on data exploration, transformation, and business insight generation through interactive dashboards.
+
+This project demonstrates my ability to work with real-world data pipelines,
+
+combining Python, SQL Server and Power BI to extract insights from large
+
+financial datasets and support fraud detection analysis.
+
+
+
+
 
