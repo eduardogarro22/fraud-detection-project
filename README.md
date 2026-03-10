@@ -1,4 +1,4 @@
-**Fraud Detection Analytics Project | Python, SQL Server \& Power BI**
+**# Fraud Detection Analytics Project | Python, SQL Server \& Power BI**
 
 
 
@@ -46,19 +46,19 @@ This project applies **machine learning classification techniques** to automatic
 
 Kaggle Dataset
 
-&nbsp;     ↓
+      ↓
 
 Python Data Processing
 
-&nbsp;     ↓
+      ↓
 
 SQL Server Database
 
-&nbsp;     ↓
+      ↓
 
 Fraud Analysis
 
-&nbsp;     ↓
+      ↓
 
 Power BI Dashboard
 
@@ -275,8 +275,4 @@ This project demonstrates my ability to work with real-world data pipelines,
 combining Python, SQL Server and Power BI to extract insights from large
 
 financial datasets and support fraud detection analysis.
-
-
-
-
 
